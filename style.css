@@ -47,11 +47,17 @@ hr{position: absolute;
     top: 60%;
     left: 10%;
     border: black;
+    border-radius: 10px;
+
     
 }
 .pic2{top: 60%;
     left: 50%;
     position: absolute;
     height: 30%;
+    height: 30%;
     width: 30%;
+    border-radius: 10px;
+
 }
+
